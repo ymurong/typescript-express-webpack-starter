@@ -1,2 +1,1 @@
-# testit
-an online testing tool
+# typescript-express-webpack-starter
